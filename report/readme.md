@@ -1,1 +1,1 @@
-this folder contains final report
+this folder contains the final notebook, memo, and executive presentation
